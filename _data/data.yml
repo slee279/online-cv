@@ -64,17 +64,17 @@ education:
 
 experiences:
     - role: Lead Developer
-      time: 2015 - Present
+      time: 8/2018 - Present
       company: General Assembly, Austin, TX
       details: |
+          Data Science Immersive
+          12-week long training program
+
           - Standardized Testing, Statistical Summaries and Inference on SAT/ACT dataset
           - Ames Housing Data and Kaggle Challenge using Python
           - reddit.com APIs & Classification using Python
           - Predicting outbreaks of West Nile Virus in Chicago using Python, Tableau
 
-
-          - Bullet point
-          - Bullet point 
 
     - role: Senior Software Engineer
       time: 2014 - 2015
@@ -153,4 +153,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    *US Permanent Resident
