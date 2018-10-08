@@ -87,11 +87,11 @@ projects:
 
       - title: Ames Housing Price
         link: "https://github.com/slee279/Ames"
-        tagline: "•	Ames Housing Data and Kaggle Challenge using Python"
+        tagline: "Ames Housing Data and Kaggle Challenge using Python"
 
       - title: Reddit API
         link: "Reddit API"
-        tagline: "•	reddit.com APIs & Classification using Python"
+        tagline: "Reddit.com APIs & Classification using Python"
 
       - title: West Nile Virus in Chicago
         link: "https://github.com/slee279/WMV"
@@ -114,7 +114,7 @@ skills:
       - name: Machine Learning
         level: 90%
         
-      - name: natural language processing 
+      - name: Natural Language Processing 
         level: 90%
 
 footer: >
