@@ -30,18 +30,9 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: 
-        level: 
-        
     interests:
       - item: Soccer, Sports
         link: https://github.com/slee279/EPL
-
-      - item: 
-        link:
-
-      - item: 
-        link:
 
 career-profile:
     title: Career Profile
@@ -50,7 +41,7 @@ career-profile:
 
 education:
     - degree: BS in Statistics
-      university: University of Illinois at Urbana-Champaign
+      university: University of Illinois, Urbana-Champaign
       time: 
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -59,15 +50,13 @@ education:
         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
         pretium quis, sem.
 
-          - Bullet point
-          - Bullet point 
+          - Specialization in Computational Science and Engineering
 
 experiences:
-    - role: Lead Developer
+    - role: Data Science Immersive Fellow
       time: 8/2018 - Present
       company: General Assembly, Austin, TX
       details: |
-          Data Science Immersive
           12-week long training program
 
           - Standardized Testing, Statistical Summaries and Inference on SAT/ACT dataset
@@ -75,82 +64,55 @@ experiences:
           - reddit.com APIs & Classification using Python
           - Predicting outbreaks of West Nile Virus in Chicago using Python, Tableau
 
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Smart Transportation Department Intern
+      time: 6/2014 - 8/2014
+      company: LG CNS, Seoul, KR
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+         - Created English manuals for smart card readers using PowerPoint
+         - Translated English business documents to Korean vice versa
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Admin Specialist / Information Management Officer / Translator
+      time: 2/2010 - 12/2011
+      company: United States Armed Forces Korea, Seoul, KR
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+         KATUSA – Korean Augmentation to the U.S. Army (Sergeant)
+	     - Managed over 40 network accounts for troops for national trainings
+	     - Maintained over 20 computers and peripherals in the office
+	     - Led over 40 KATUSA soldiers in the battalion
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+  
 
     assignments:
-      - title: Velocity
-        link: "#hook"
+      - title: ACT vs SAT
+        link: "https://github.com/slee279/ACT_SAT_Comparison"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
+      - title: Ames Housing Price
+        link: "https://github.com/slee279/Ames"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
+      - title: Reddit API
+        link: "Reddit API"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
+      - title: West Nile Virus in Chicago
+        link: "https://github.com/slee279/WMV"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
+      - title: Donut Delights
+        link: "slee279.github.io/donut"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python 
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     *US Permanent Resident
