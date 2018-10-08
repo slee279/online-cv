@@ -65,17 +65,13 @@ education:
 experiences:
     - role: Lead Developer
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: General Assembly, Austin, TX
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+          - Standardized Testing, Statistical Summaries and Inference on SAT/ACT dataset
+          - Ames Housing Data and Kaggle Challenge using Python
+          - reddit.com APIs & Classification using Python
+          - Predicting outbreaks of West Nile Virus in Chicago using Python, Tableau
+
 
           - Bullet point
           - Bullet point 
