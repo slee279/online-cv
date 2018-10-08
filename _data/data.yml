@@ -44,41 +44,36 @@ education:
       university: University of Illinois, Urbana-Champaign
       time: 
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Specialization in Computational Science and Engineering
+	- Specialization in Computational Science and Engineering
 
 experiences:
     - role: Data Science Immersive Fellow
       time: 8/2018 - Present
       company: General Assembly, Austin, TX
       details: |
-          12-week long training program
+	12-week long training program
 
-          - Standardized Testing, Statistical Summaries and Inference on SAT/ACT dataset
-          - Ames Housing Data and Kaggle Challenge using Python
-          - reddit.com APIs & Classification using Python
-          - Predicting outbreaks of West Nile Virus in Chicago using Python, Tableau
+	- Standardized Testing, Statistical Summaries and Inference on SAT/ACT dataset
+	- Ames Housing Data and Kaggle Challenge using Python
+	- reddit.com APIs & Classification using Python
+	- Predicting outbreaks of West Nile Virus in Chicago using Python, Tableau
 
     - role: Smart Transportation Department Intern
       time: 6/2014 - 8/2014
       company: LG CNS, Seoul, KR
       details: |
-         - Created English manuals for smart card readers using PowerPoint
-         - Translated English business documents to Korean vice versa
+	- Created English manuals for smart card readers using PowerPoint
+	- Translated English business documents to Korean vice versa
 
     - role: Admin Specialist / Information Management Officer / Translator
       time: 2/2010 - 12/2011
       company: United States Armed Forces Korea, Seoul, KR
       details: |
          KATUSA – Korean Augmentation to the U.S. Army (Sergeant)
-	 - Managed over 40 network accounts for troops for national trainings
-	 - Maintained over 20 computers and peripherals in the office
-	 - Led over 40 KATUSA soldiers in the battalion
+	- Managed over 40 network accounts for troops for national trainings
+	- Maintained over 20 computers and peripherals in the office
+	- Led over 40 KATUSA soldiers in the battalion
 
 projects:
     title: Projects
