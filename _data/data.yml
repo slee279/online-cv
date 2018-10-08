@@ -83,31 +83,39 @@ projects:
     assignments:
       - title: ACT vs SAT
         link: "https://github.com/slee279/ACT_SAT_Comparison"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Standardized Testing, Statistical Summaries and Inference on SAT/ACT dataset"
 
       - title: Ames Housing Price
         link: "https://github.com/slee279/Ames"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "•	Ames Housing Data and Kaggle Challenge using Python"
 
       - title: Reddit API
         link: "Reddit API"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "•	reddit.com APIs & Classification using Python"
 
       - title: West Nile Virus in Chicago
         link: "https://github.com/slee279/WMV"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Predicting outbreaks of West Nile Virus in Chicago using Python, Tableau"
 
       - title: Donut Delights
-        link: "slee279.github.io/donut"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: "https://slee279.github.io/donut"
+        tagline: "Designed and developed a demo website using HTML, CSS, and JavaScript"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python 
-        level: 98%
-
+        level: 100%
+      
+      - name: Statistical Modeling 
+        level: 95%
+       
+      - name: Machine Learning
+        level: 90%
+        
+      - name: natural language processing 
+        level: 90%
 
 footer: >
     *US Permanent Resident
